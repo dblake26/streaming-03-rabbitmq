@@ -1,0 +1,20 @@
+2024-05-19 11:34:26,578.v2_listen_for_messages.INFO ==================================================
+2024-05-19 11:34:26,578.v2_listen_for_messages.INFO Today is 2024-05-19 at 11:34 AM
+2024-05-19 11:34:26,579.v2_listen_for_messages.INFO Running on: nt Windows 11
+2024-05-19 11:34:26,579.v2_listen_for_messages.INFO Python version:  3.12.2
+2024-05-19 11:34:26,579.v2_listen_for_messages.INFO Python path: C:\Users\desir\streaming-03-rabbitmq\.venv
+2024-05-19 11:34:26,579.v2_listen_for_messages.INFO Working dir: C:\Users\desir\streaming-03-rabbitmq
+2024-05-19 11:34:26,579.v2_listen_for_messages.INFO ==================================================
+2024-05-19 11:34:26,603.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-19 11:38:41,170.v2_listen_for_messages.INFO Received: Hello Streaming Data Class!
+2024-05-19 11:44:42,100.v2_listen_for_messages.INFO Received: welcome streaming data classmates!
+2024-05-19 11:48:42,076.v2_listen_for_messages.INFO Received: welcome streaming data classmates!
+2024-05-19 11:52:43,680.v2_listen_for_messages.INFO Received: hi, streaming data classmates!
+2024-05-19 11:54:35,274.v2_listen_for_messages.INFO Received: This is Desiree Blake!
+2024-05-19 11:55:22,247.v2_listen_for_messages.INFO Received: It feels good to learn something new!!
+Class!
+2024-05-19 11:42:11,868.v2_listen_for_messages.INFO Received: welcome streaming data classmates!
+2024-05-19 11:47:53,200.v2_listen_for_messages.INFO Received: welcome streaming data classmates!
+2024-05-19 11:52:19,529.v2_listen_for_messages.INFO Received: hi, streaming data classmates!
+2024-05-19 11:53:52,180.v2_listen_for_messages.INFO Received: This is Desiree Blake!
+2024-05-19 11:55:03,623.v2_listen_for_messages.INFO Received: It feels good to learn something new!!

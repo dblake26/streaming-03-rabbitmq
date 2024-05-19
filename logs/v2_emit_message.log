@@ -1,0 +1,8 @@
+2024-05-19 11:24:51,692.v2_emit_message.INFO ==================================================
+2024-05-19 11:24:51,692.v2_emit_message.INFO Today is 2024-05-19 at 11:24 AM
+2024-05-19 11:24:51,692.v2_emit_message.INFO Running on: nt Windows 10
+2024-05-19 11:24:51,693.v2_emit_message.INFO Python version:  3.11.9
+2024-05-19 11:24:51,693.v2_emit_message.INFO Python path: C:\Users\desir\streaming-03-rabbitmq\.venv
+2024-05-19 11:24:51,693.v2_emit_message.INFO Working dir: C:\Users\desir\streaming-03-rabbitmq
+2024-05-19 11:24:51,694.v2_emit_message.INFO ==================================================
+2024-05-19 11:24:51,712.v2_emit_message.INFO  [x] Sent Hello World!
